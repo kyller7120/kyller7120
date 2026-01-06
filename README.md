@@ -1,4 +1,4 @@
-<h1 align="center">Hola, bienvenido :D!</h1>
+<h1 align="center">Hola, bienvenido!</h1>
 
 ###
 
