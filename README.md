@@ -3,6 +3,16 @@
 ###
 
 <div align="center">
+  <img height="200" src="https://sweezy-cursors.com/wp-content/uploads/cursor/auto-draft/pac-man-blinky-vulnerable-ghost-animated-custom-cursor.gif"  />
+</div>
+
+###
+
+<img align="right" height="200" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
+
+###
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
@@ -26,23 +36,16 @@
 
 ###
 
-<div align="center">
-  <a href="https://api.whatsapp.com/send?phone=50372242736" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
+<div align="left">
+  <a href="https://www.facebook.com/noaldoxeo/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
   </a>
   <a href="riveramarlon2107@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <img height="200" src="https://media.tenor.com/S61VCO73mOAAAAAj/linux-tux.gif"  />
+  <a href="https://api.whatsapp.com/send?phone=50372242736" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
